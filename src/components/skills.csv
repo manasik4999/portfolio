@@ -1,0 +1,40 @@
+Category,Skill,Proficiency,YearsExperience,Projects
+Programming,Python,Advanced,5,15
+Programming,JavaScript,Intermediate,3,10
+Programming,TypeScript,Beginner,1,2
+Programming,Java,Beginner,1,2
+Programming,Shell Scripting,Beginner,1,2
+Programming,SQL,Beginner,1,2
+Programming,C,Beginner,1,2
+Web Development,React,Advanced,4,12
+Web Development,REST APIs,Advanced,4,12
+Web Development,Node.js,Intermediate,2,8
+Web Development,Bootstrap,Advanced,4,12
+Web Development,HTML/CSS,Expert,6,20
+Database,Firebase,Advanced,4,10
+Database,MySQL,Advanced,4,10
+Database,NoSQL,Intermediate,2,5
+Database,PostgreSQL,Intermediate,2,5
+Database,DB2,Intermediate,2,5
+Database,MongoDB,Intermediate,2,5
+Cloud,Oracle Commerce Cloud,Intermediate,2,6
+Cloud,Google Cloud Platform,Intermediate,2,6
+Cloud,AWS,Intermediate,2,6
+Cloud,Azure,Beginner,1,2
+DevOps,GitHub,Intermediate,2,7
+DevOps,Bitbucket,Intermediate,2,7
+DevOps,Jenkins,Intermediate,2,7
+DevOps,Git,Beginner,1,3
+Data Science,TensorFlow,Intermediate,2,4
+Data Science,NumPy,Intermediate,2,4
+Data Science,sci-kit learn,Intermediate,2,4
+Data Science,TensorFlow,Intermediate,2,4
+Data Science,Keras,Advanced,3,8
+Data Science,Pandas,Advanced,3,8
+Soft Skills,Communication,Advanced,5,4
+Soft Skills,Team Leadership,Intermediate,3,4
+Design & Productivity Tools,Figma,Intermediate,3,4
+Design & Productivity Tools,Canva,Intermediate,3,4
+Design & Productivity Tools,Jira,Intermediate,5,8
+Design & Productivity Tools,Postman,Advanced,3,8
+Design & Productivity Tools,ServiceNow,Advanced,3,3
